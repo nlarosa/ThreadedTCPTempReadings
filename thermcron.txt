@@ -1,0 +1,1 @@
+13,33,53 * * * * /afs/nd.edu/user14/ssaraph/Public/networks/therm 129.74.152.73 9775 1 > /dev/null
